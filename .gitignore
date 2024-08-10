@@ -1,0 +1,5 @@
+.env
+videos/*
+audio-files/*
+audio-text/*
+models/*
